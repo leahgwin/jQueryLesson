@@ -25,9 +25,3 @@
 // There are lot of ways to append things with jQuery! I personally like .appendTo() and .prependTo() a lot because they're nice when you want to chain jQuery methods.
 
 // Now let's look at it all in one line
-
-// $("<div>")
-//   .text("HELLO ITS JQUERY ALL IN ONE LINE!!!!")
-//   .addClass("box")
-//   .attr("id", "box-b")
-//   .appendTo($("#jquery-container"));

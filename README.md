@@ -4,4 +4,4 @@
 1. Code along as much as you can, but if you get lost don't worry! I'll post the updated code at the end of the lesson.
 1. WOOOOOOOOOOOOOOO!!
 
-_Thank you, Jordan Castelloe for building this wonderful jQuery lesson_
+_Thank you, Jordan Castelloe, for building this wonderful jQuery lesson for NSS_

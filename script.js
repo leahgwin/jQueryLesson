@@ -20,8 +20,6 @@
 
 // append it to the DOM
 
-// $("#jquery-container").append($jMagic);
-
 // There are lot of ways to append things with jQuery! I personally like .appendTo() and .prependTo() a lot because they're nice when you want to chain jQuery methods.
 
-// Now let's look at it all in one line
+// Now let's look at it all chained in one line!!
